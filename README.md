@@ -1,2 +1,2 @@
 # promptifyy
-Personal Prompt Vault - Create, Store and Manage Ai prompts
+Personal Prompt Vault - Create, store and manage Ai prompts
